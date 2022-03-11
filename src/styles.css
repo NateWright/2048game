@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-main {
+    background-color: #BCAD9F;
+}
+.border-2048 {
+    border-color: #BCAD9F;
+}

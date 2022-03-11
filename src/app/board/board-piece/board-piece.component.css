@@ -1,0 +1,36 @@
+.bg-0 {
+    background-color: #D8C0B2;
+}
+.bg-2 {
+    background-color: #EEE4DA;
+}
+.bg-4 {
+    background-color: #EDE0C8;
+}
+.bg-8 {
+    background-color: #F2B079;
+}
+.bg-16 {
+    background-color: #F59563;
+}
+.bg-32 {
+    background-color: #F67C60;
+}
+.bg-64 {
+    background-color: #F65E3B;
+}
+.bg-128 {
+    background-color: #EDCF73;
+}
+.bg-256 {
+    background-color: #EDCC62;
+}
+.bg-512 {
+    background-color: #EDC850;
+}
+.bg-1024 {
+    background-color: #EDC540;
+}
+.bg-2048 {
+    background-color: #EDC22D;
+}

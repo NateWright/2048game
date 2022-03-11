@@ -1,0 +1,8 @@
+<div 
+class="container flex justify-center items-center border-2048 border-4 p-1 m-0 w-20 h-20 rounded-md"
+[ngClass]="color()">
+    <div *ngIf="value" [ngClass]="textSize()">
+        {{ value }}
+    </div>
+</div>
+

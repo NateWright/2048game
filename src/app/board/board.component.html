@@ -1,0 +1,5 @@
+<div class="container m-auto bg-[#FAF8EF]">
+    <div class="bg-main m-auto grid grid-cols-4 grid-rows-4 w-80 h-80 border-2048 border-4 rounded-sm">
+        <app-board-piece class="w-20" *ngFor="let piece of pieces(); let i = index" [id]="i"></app-board-piece>
+    </div>
+</div>
